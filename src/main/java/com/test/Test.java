@@ -5,4 +5,7 @@ package com.test;
  * on 2019/1/3
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
